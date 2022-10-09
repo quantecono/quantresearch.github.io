@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: '@akjha002',
+    linkedin: 'akjha002',
     twitter: '@AmitKJIITM',
     facebook: '@AmitJha',
     instagram: '@hello_mr_jha',
@@ -23,7 +23,7 @@ const config = {
     email: 'jha.8@iitj.ac.in',
   },
   resume: {
-    fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1SRccMubon_lAaNZNl5BpqIVanUHEE4vR/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
           'Python',
