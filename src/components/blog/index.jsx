@@ -3,7 +3,7 @@ import { ga, skeleton } from '../../helpers/utils';
 import LazyImage from '../lazy-image';
 import PropTypes from 'prop-types';
 import { AiOutlineContainer } from 'react-icons/ai';
-import { getDevPost, getMediumPost } from '@arifszn/blog-js';
+import { getDevPost, getMediumPost } from '@Akjha22/blog-js';
 import { formatDistance } from 'date-fns';
 
 const displaySection = (blog) => {
