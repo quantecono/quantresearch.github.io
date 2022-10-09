@@ -7,7 +7,7 @@ const config = {
     limit: 6, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Create-Beautiful-Financial-Data-Charts-in-R'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
