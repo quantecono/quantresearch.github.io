@@ -4,78 +4,68 @@ const config = {
   github: {
     username: 'AIM-IT4', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
-    instagram: '',
+    linkedin: '@akjha002',
+    twitter: '@AmitKJIITM',
+    facebook: '@AmitJha',
+    instagram: '@hello_mr_jha',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    medium: '@Akjha22',
+    website: 'https://aim-it4.github.io',
+    phone: '+91-8587995664',
+    email: 'jha.8@iitj.ac.in',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
-  ],
+          'Python',
+          'R',
+          'SQL',
+          'MS Office',
+          'SPSS',
+          'Eviews',
+          'STATA',
+          'SPSS',
+          'C++',
+          'Tableau',
+          'PowerBI',
+        ],
   experiences: [
-    {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
-      to: 'Present',
-    },
-    {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
-    },
-  ],
-  education: [
-    {
-      institution: 'American International University-Bangladesh',
-      degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Cantonment College, Jessore',
-      degree: 'Higher Secondary Certificate (HSC)',
-      from: '2012',
-      to: '2014',
-    },
-    {
-      institution: 'Chowgacha Shahadat Pilot High School',
-      degree: 'Secondary School Certificate (SSC)',
-      from: '2007',
-      to: '2012',
-    },
-  ],
+          {
+            company: 'Elint Data Private Limited',
+            position: 'Data Scientist',
+            from: 'April 2022',
+            to: 'Present', 
+          },
+          {
+            company: 'IIT Roorkee',
+            position: 'Research Intern',
+            from: 'January 2022',
+            to: ' April 2022',
+          },
+        ],
+        education: [
+          {
+            institution: 'Indian Institute of Technology Madras',
+            degree: 'Ph.D. Financial Economics',
+            from: 'July 2022',
+            to: 'May 2025(Expected)'
+          },
+          {
+            institution: 'Indian Institute of Technology Jodhpur',
+            degree: 'Master of Science',
+            from: 'July 2020',
+            to: 'April 2022',
+          },
+        ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
