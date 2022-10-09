@@ -52,7 +52,7 @@ const config = {
             to: ' April 2022',
           },
         ],
-        education: [
+   education: [
           {
             institution: 'Indian Institute of Technology Madras',
             degree: 'Ph.D. Financial Economics',
