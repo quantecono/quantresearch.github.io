@@ -68,20 +68,20 @@ const config = {
         ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 3, // How many posts to display. Max is 10.
+    source: 'medium', // medium | dev
+    username: '@Akjha22', // to hide blog section, keep it empty
+    limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+    id: 'G-BBDPHYSR5X', // Please remove this and use your own tag id or keep it empty
   },
   hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
+    id: '3193432', //  Please remove this and use your own id or keep it empty
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'corporate',
+    defaultTheme: 'Dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
