@@ -45,6 +45,11 @@ const config = {
             from: 'April 2022',
             to: 'Present', 
           },
+    {  company: 'Reserve Bank of India',
+            position: 'Research Intern',
+            from: 'Jan 2023',
+            to: 'Present',
+    },
           {
             company: 'IIT Roorkee',
             position: 'Research Intern',
