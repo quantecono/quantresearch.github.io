@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'AIM-IT4', // Your GitHub org/user name. (Required)
+    username: 'QuantResearch', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
     limit: 6, // How many projects to display.
     exclude: {
@@ -11,14 +11,14 @@ const config = {
     },
   },
   social: {
-    linkedin: 'akjha002',
+    linkedin: 'company/quanteconresearch2023/',
     twitter: '@AmitKJIITM',
     facebook: '@AmitJha',
     instagram: '@hello_mr_jha',
     dribbble: '',
     behance: '',
     medium: '@Akjha22',
-    website: 'https://aim-it4.github.io',
+    website: 'https://quantresearch.github.io',
     phone: '+91-8587995664',
     email: 'jha.8@iitj.ac.in',
   },
